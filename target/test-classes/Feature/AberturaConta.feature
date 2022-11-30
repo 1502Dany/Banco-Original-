@@ -14,7 +14,7 @@ Feature: Abertura de conta
    
 
 @tag2
-Scenario:  Abertura de conta pessoa juridica
+Scenario:  Abertura de conta pessoa juridica dani
   Given que o usuario acesse a url "https://www.original.com.br/"
   And selecionar o botao abrir conta 
   And selecionar o botao abrir conta para sua empresa
